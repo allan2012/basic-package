@@ -3,11 +3,11 @@
 Just a simple way to get started with a basic well tested PHP package management. 
 You can use it as a basic template to create a standard composer PHP package.
 
-## Composer Installation
+### Composer Installation
 
-```composer composer require allan/calc```
+```composer require allan/calc```
 
-## Usage
+### Usage
 ```
 <?php
 
