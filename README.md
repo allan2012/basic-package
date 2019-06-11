@@ -1,5 +1,7 @@
 # basic-package
-Just a simple way to get started with a basic well tested PHP package management.
+
+Just a simple way to get started with a basic well tested PHP package management. 
+You can use it as a basic template to create a standard composer PHP package.
 
 ## Composer Installation
 
