@@ -1,0 +1,19 @@
+{
+    "name": "allan/calc",
+    "description": "Very basic example as demonstrated",
+    "license": "MIT",
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "authors": [
+        {
+            "name": "Allan Kibet",
+            "email": "allan.koskei@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+             "src/Calc"
+         ]
+     }
+}
